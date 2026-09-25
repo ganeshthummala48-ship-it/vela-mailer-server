@@ -1,0 +1,11 @@
+# Dependencies
+node_modules/
+
+# Environment secrets — NEVER commit this
+.env
+
+# Vercel build output
+.vercel/
+
+.vercel
+.env*
